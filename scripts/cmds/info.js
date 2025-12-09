@@ -12,7 +12,7 @@ module.exports = {
   onStart: async function ({ api, event }) {
     try {
       const message = `
-NAME :SAFIA ISLAM SARA
+__"❀:SAFIA ISLAM SARA
 
 AGE:17+
 
@@ -25,7 +25,7 @@ RELIGION:ISLAM
 FB ID LINK: https://www.facebook.com/profile.php?id=61559922856622
 
 
-Wish me 11 December 😊`;
+Wish me 11 December"😊💜😊`;
 
       await api.sendMessage({
         body: message
