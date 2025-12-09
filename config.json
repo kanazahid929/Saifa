@@ -12,17 +12,17 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "GoatBot",
-  "prefix": "-",
+  "nickNameBot": "SAIFAS-BOT",
+  "prefix": "/",
   "api": "https://www.noobs-api.rf.gd/dipto",
   "approval": false,
   "reactBy": {
     "delete": [
-      "😡",
+      "❗",
       "😾"
     ],
     "kick": [
-      "🦶",
+      "🚩",
       "⚠️"
     ]
   },
@@ -31,16 +31,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61552258402755"
+    "61559922856622"
   ],
   "mainAdmin": [
-    "61552258402755"
+    "61584282580739"
   ],
   "whiteListMode": {
     "enable": true,
     "whiteListIds": [
-      "61552258402755",
-      "100044327656712"
+      "61584282580739",
+      "61559922856622"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
