@@ -16,12 +16,12 @@ module.exports = {
   onStart: async function ({ api, event }) {
     try {
       const ownerInfo = {
-        name: '𝐒𝐢𝐥𝐞𝐧𝐭 𝐌𝐚𝐟𝐢𝐲𝐚___// 😘 😕 😈',
-        gender: '𝐌𝐀𝐋𝐄👾🌪️',
-        nick: '𝙋𝙍𝙄𝙉𝘾𝙀 ⚠️‍☠  '
+        name: 'SAFIA ISLAM SARA',
+        gender: 'Female💚🪄',
+        nick: 'SARA👀🥺  '
       };
 
-      const videoUrl = 'https://files.catbox.moe/y7ikg6.mp4';
+      const videoUrl = 'https://files.catbox.moe/y9cz32.mp4';
       const tmpFolderPath = path.join(__dirname, 'tmp');
 
       if (!fs.existsSync(tmpFolderPath)) {
@@ -37,13 +37,14 @@ module.exports = {
 ╭────────────◊
 ├─⦿ 𝐁𝐨𝐭 & 𝐎𝐰𝐧𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 
 ├─⦿ 𝐍𝐚𝐦𝐞: ${ownerInfo.name}
-├─⦿ 𝗩𝗶͜͡𝗿𝘂𝘀 𝗔𝗹𝗲𝗿𝘁⚡📨
-├─⦿ 𝗢𝗽𝗽͜͡𝘀𝘀𝘀 ....... 🎭
-├─⦿ 𝗙𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝘄𝗼𝗿𝗱 :𝗥𝗨𝗦𝗦𝗜𝗔𝗡 👑📌
-├─⦿ 𝗛𝗼𝗯𝗯𝘆 : ƒαтнєяѕ σƒƒ ησвιη 🎭
-├─⦿ ⚡ 𝗪͟𝗛͟͠𝗢 𝗜͟𝗔͟͠𝗠 𝘠͟𝗼͟͠𝘶 𝗵͟𝗮͟͠𝘃𝗲 𝗻͟𝗼͟͠ 𝗶͟𝗱͟͠𝗲𝗮 📨🍷
-├─⦿ 𝗳͟𝗮͟͠𝘁𝗵𝗲𝗿  𝗼͟𝗳   ¢ē໐⚡
-├─⦿ ⁷¹³𝗟𝗢𝗔𝗗𝗜𝗡𝗚...........................👾
+AGE:17+
+district:NARAYANGANJ 
+COUNTRY :BANGLADESH 
+RELIGION:ISLAM 
+FB ID LINK: https://www.facebook.com/profile.php?id=61559922856622
+
+Wish me 11 December 😊
+
 ├─⦿ 𝐆𝐞𝐧𝐝𝐞𝐫: ${ownerInfo.gender}
 ├─⦿ 𝐍𝐢𝐜𝐤 : ${ownerInfo.nick}
 ╰────────────◊
